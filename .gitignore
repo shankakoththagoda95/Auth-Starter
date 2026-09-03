@@ -1,0 +1,15 @@
+# Python
+backend/.venv/
+backend/__pycache__/
+backend/.pytest_cache/
+backend/.ruff_cache/
+backend/.env
+
+# JavaScript
+frontend/node_modules/
+frontend/dist/
+frontend/.npm-cache/
+
+# Local tools and secrets
+.env
+.DS_Store
