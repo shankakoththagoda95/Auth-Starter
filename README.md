@@ -224,3 +224,8 @@ npm install --cache .npm-cache
 ## Security notes
 
 This project provides a strong starting point, but deployment remains a security responsibility. Before putting it on the public internet, use HTTPS, a real transactional email provider, secure environment-variable storage, backups, monitoring, and a shared Redis-backed rate limiter when running more than one API server.
+
+## License
+
+Project developed by Shanka Koththagoda.
+This project is currently intended for educational and development purposes.
